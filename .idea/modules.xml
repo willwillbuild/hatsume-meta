@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/hatsume-meta.iml" filepath="$PROJECT_DIR$/.idea/hatsume-meta.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/hatsume-meta-master.iml" filepath="$PROJECT_DIR$/.idea/hatsume-meta-master.iml" />
+>>>>>>> ec235e8... Transferred files over
+    </modules>
+  </component>
+</project>
