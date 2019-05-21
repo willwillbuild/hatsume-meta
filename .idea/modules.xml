@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
+      <module fileurl="file://$USER_HOME$/projects/open-source/Hatsume/.idea/hatsume.iml" filepath="$USER_HOME$/projects/open-source/Hatsume/.idea/hatsume.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hatsume-meta.iml" filepath="$PROJECT_DIR$/.idea/hatsume-meta.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/hatsume-meta-master.iml" filepath="$PROJECT_DIR$/.idea/hatsume-meta-master.iml" />
->>>>>>> ec235e8... Transferred files over
     </modules>
   </component>
 </project>
